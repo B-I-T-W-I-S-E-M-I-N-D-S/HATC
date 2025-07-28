@@ -1,0 +1,1285 @@
+{
+    "database": {
+        "saloon_cut_clean_0001": {
+            "subset": "train",
+            "split": 1,
+            "duration": 621.00,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        11.0
+                    ],
+                    "label": "clean"
+                },
+                {
+                    "segment": [
+                        71.0,
+                        299.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        304.0,
+                        359.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        479.0,
+                        490.0
+                    ],
+                    "label": "clean"
+                },
+                {
+                    "segment": [
+                        592.0,
+                        621.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        628.0,
+                        635.0
+                    ],
+                    "label": "HairTreatment"
+                }
+            ]
+        },
+        "saloon_cut_clean_0002": {
+            "subset": "test",
+            "split": 1,
+            "duration": 1506.0,
+            "annotations": [
+                {
+                    "segment": [
+                        14.0,
+                        36.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        45.0,
+                        180.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        185.0,
+                        192.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        198.0,
+                        205.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        294.0,
+                        321.0
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        388.0,
+                        435.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        449.0,
+                        478.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        487.0,
+                        557.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        566.0,
+                        573.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        578.0,
+                        618.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        650.0,
+                        1375.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1411.0,
+                        1436.0
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0003": {
+            "subset": "train",
+            "split": 1,
+            "duration": 1129.0,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        16.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        52.0,
+                        718.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        718.0,
+                        747.0
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        747.0,
+                        969.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        996.0,
+                        1008.0
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0004": {
+            "subset": "train",
+            "split": 1,
+            "duration": 1506.0,
+            "annotations": [
+                {
+                    "segment": [
+                        14.0,
+                        36.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        45.0,
+                        180.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        185.0,
+                        192.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        198.0,
+                        205.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        294.0,
+                        321.0
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        388.0,
+                        435.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        449.0,
+                        478.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        487.0,
+                        557.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        566.0,
+                        573.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        578.0,
+                        618.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        650.0,
+                        1375.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1411.0,
+                        1436.0
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0005": {
+            "subset": "train",
+            "split": 1,
+            "duration": 940.0,
+            "annotations": [
+                {
+                    "segment": [
+                        35.0,
+                        60.0
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        88.0,
+                        99.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        173.0,
+                        675.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        745.0,
+                        755.0
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        834.0,
+                        940.0
+                    ],
+                    "label": "HairTreatment"
+                }
+            ]
+        },
+        "saloon_cut_clean_0006": {
+            "subset": "train",
+            "split": 1,
+            "duration": 1303.12068,
+            "annotations": [
+                {
+                    "segment": [
+                        0.1,
+                        5.2
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        85.8,
+                        123.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        126.3,
+                        589.1
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        596.8,
+                        601.5
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        623.4,
+                        962.3
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        970.3,
+                        1109
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1112.2,
+                        1159.1
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1203.3,
+                        1249.9
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        1283.8,
+                        1303.1
+                    ],
+                    "label": "HairTreatment"
+                }
+            ]
+        },
+        "saloon_cut_clean_0007": {
+            "subset": "train",
+            "split": 1,
+            "duration": 955.541179,
+            "annotations": [
+                {
+                    "segment": [
+                        0.2,
+                        5.9
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        14.3,
+                        20.6
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        27.3,
+                        121.8
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        130.1,
+                        924.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        924.9,
+                        955.3
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0008": {
+            "subset": "train",
+            "split": 1,
+            "duration": 2275.101406,
+            "annotations": [
+                {
+                    "segment": [
+                        102.1,
+                        533.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        567.1,
+                        1821.4
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1821.4,
+                        1862.0
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        1861.0,
+                        1883.2
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1890.5,
+                        1969.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1981.4,
+                        1991.1
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        2186.4,
+                        2263.7
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0009": {
+            "subset": "test",
+            "split": 1,
+            "duration": 1857.125533,
+            "annotations": [
+                {
+                    "segment": [
+                        97.8,
+                        243.5
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        250.9,
+                        547.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        605.7,
+                        1661.5
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1673.1,
+                        1694.8
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1723.3,
+                        1745.1
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        1814.7,
+                        1853.8
+                    ],
+                    "label": "HairTreatment"
+                }
+            ]
+        },
+        "saloon_cut_clean_0010": {
+            "subset": "train",
+            "split": 1,
+            "duration": 2048.458005,
+            "annotations": [
+                {
+                    "segment": [
+                        0.1,
+                        229.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        236.0,
+                        291.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        340.1,
+                        362.3
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        386.3,
+                        391.8
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        427.8,
+                        463.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        473.2,
+                        1273.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1288.6,
+                        1867.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1994.3,
+                        2023.5
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0011": {
+            "subset": "test",
+            "split": 1,
+            "duration": 793.69805,
+            "annotations": [
+                {
+                    "segment": [
+                        174.1,
+                        194.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        203.8,
+                        229.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        255.2,
+                        484.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        502.4,
+                        548.3
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        555.9,
+                        577.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        618.6,
+                        635.7
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        699.0,
+                        793.6
+                    ],
+                    "label": "HairTreatment"
+                }
+            ]
+        },
+        "saloon_cut_clean_0012": {
+            "subset": "train",
+            "split": 1,
+            "duration": 694.10771,
+            "annotations": [
+                {
+                    "segment": [
+                        22.4,
+                        28.5
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        63.1,
+                        77.8
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        264.3,
+                        277.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        303.9,
+                        348.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        363.1,
+                        440.1
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        446.5,
+                        529.8
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        581.0,
+                        593.9
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0013": {
+            "subset": "test",
+            "split": 1,
+            "duration": 893.102766,
+            "annotations": [
+                {
+                    "segment": [
+                        129.9,
+                        141.3
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        147.8,
+                        182.6
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        207.6,
+                        539.6
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        556.8,
+                        660.4
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        667.5,
+                        755.2
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        804.0,
+                        834.0
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0014": {
+            "subset": "train",
+            "split": 1,
+            "duration": 1314.104104,
+            "annotations": [
+                {
+                    "segment": [
+                        18.1,
+                        50.2
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        73.9,
+                        84.3
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        94.0,
+                        125.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        136,
+                        1061.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1068.1,
+                        1077.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1084.3,
+                        1102.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1143.2,
+                        1211.9
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0015": {
+            "subset": "train",
+            "split": 1,
+            "duration": 959.140272,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        760.1
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        760.7,
+                        792
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        803.3,
+                        838.1
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        842.8,
+                        870.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        885.0,
+                        896.3
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        945.3,
+                        956.6
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0016": {
+            "subset": "train",
+            "split": 1,
+            "duration": 596.096281,
+            "annotations": [
+                {
+                    "segment": [
+                        2.4,
+                        83.6
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        174.4,
+                        364.5
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        391.4,
+                        450.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        451.6,
+                        503.9
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        579.7,
+                        587.3
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0017": {
+            "subset": "train",
+            "split": 1,
+            "duration": 537.094717,
+            "annotations": [
+                {
+                    "segment": [
+                        50.1,
+                        66.0
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        129.6,
+                        151.1
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        158.2,
+                        296.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        315.1,
+                        353.2
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        369.1,
+                        391.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        488.7,
+                        522.7
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0018": {
+            "subset": "train",
+            "split": 1,
+            "duration": 999.124989,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        448.8
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        463.9,
+                        645.6
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        651.9,
+                        701.4
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        701.6,
+                        906.8
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        918.8,
+                        975.8
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        989.1,
+                        998.9
+                    ],
+                    "label": "HairTreatment"
+                }
+            ]
+        },
+        "saloon_cut_clean_0019": {
+            "subset": "train",
+            "split": 1,
+            "duration": 911.098231,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        14.9
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        28.0,
+                        150.8
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        170.7,
+                        211.6
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        216.8,
+                        276.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        282.0,
+                        509.2
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        516.2,
+                        622.5
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        633.8,
+                        756.4
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        772.6,
+                        835.8
+                    ],
+                    "label": "Clean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0020": {
+            "subset": "train",
+            "split": 1,
+            "duration": 1544.143764,
+            "annotations": [
+                {
+                    "segment": [
+                        0.1,
+                        99.6
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        99.6,
+                        126.9
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        130.2,
+                        1070.2
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1074.2,
+                        1404.5
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1466.9,
+                        1493.8
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        1493.8,
+                        1544.1
+                    ],
+                    "label": "HairTreatmentAndClean"
+                }
+            ]
+        },
+        "saloon_cut_clean_0021": {
+            "subset": "train",
+            "split": 1,
+            "duration": 1573.122268,
+            "annotations": [
+                {
+                    "segment": [
+                        91.5,
+                        118.2
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        129.7,
+                        354.2
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        383.2,
+                        412.3
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        416.4,
+                        643.9
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        652.5,
+                        1393.3
+                    ],
+                    "label": "HairTreatment"
+                }
+            ]
+        },
+        "saloon_cut_clean_0022": {
+            "subset": "train",
+            "split": 1,
+            "duration": 1463.454422,
+            "annotations": [
+                {
+                    "segment": [
+                        28.8,
+                        53.2
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        201.9,
+                        729.0
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        744.2,
+                        1155.3
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1172.1,
+                        1186.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        1327.8,
+                        1348.2
+                    ],
+                    "label": "Clean"
+                },
+                {
+                    "segment": [
+                        1436.8,
+                        1463.4
+                    ],
+                    "label": "HairTreatment"
+                }
+            ]
+        },
+        "saloon_cut_clean_0023": {
+            "subset": "test",
+            "split": 1,
+            "duration": 907.127528,
+            "annotations": [
+                {
+                    "segment": [
+                        0.1,
+                        53.1
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        53.1,
+                        82.0
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        82.4,
+                        147.8
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        152.8,
+                        194.8
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        194.8,
+                        216.3
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        195.0,
+                        346.7
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        353.2,
+                        696.6
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        714,
+                        726.4
+                    ],
+                    "label": "HairTreatment"
+                },
+                {
+                    "segment": [
+                        726.4,
+                        745.5
+                    ],
+                    "label": "HairTreatmentAndClean"
+                },
+                {
+                    "segment": [
+                        745.5,
+                        906.8
+                    ],
+                    "label": "HairTreatment"
+                }
+            ]
+        }
+    }
+}

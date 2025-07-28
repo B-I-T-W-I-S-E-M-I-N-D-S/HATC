@@ -15,11 +15,11 @@ def parse_opt():
     parser.add_argument(
         '--segment_size',
         type=int,
-        default=64)
+        default=64),
     parser.add_argument(
         '--anchors',
         type=str,
-        default='2,4,6,8,12,16')
+        default='4,8,16,32,48,64'),
     parser.add_argument(
         '--seed', 
         default=7, 
@@ -30,7 +30,7 @@ def parse_opt():
     parser.add_argument(
         '--num_of_class',
         type=int,
-        default=23)   
+        default=4)   
     parser.add_argument(
         '--data_format',
         type=str,
@@ -50,15 +50,15 @@ def parse_opt():
     parser.add_argument(
         '--video_anno',
         type=str,
-        default="./data/egtea_annotations_split{}.json")           
+        default="./data/saloon_annotations_split1.json")           
     parser.add_argument(
         '--video_feature_all_train',
         type=str,
-        default="./data/I3D/")
+        default="./data/saloon_features/")
     parser.add_argument(
         '--video_feature_all_test',
         type=str,
-        default="./data/I3D/")
+        default="./data/saloon_features/")
     
     parser.add_argument(
         '--setup',
@@ -73,7 +73,7 @@ def parse_opt():
         type=str,
         default="1")
         
-    # Network settings
+    #network
     parser.add_argument(
         '--feat_dim',
         type=int,
@@ -85,7 +85,7 @@ def parse_opt():
     parser.add_argument(
         '--out_dim',
         type=int,
-        default=23)
+        default=4)
     parser.add_argument(
         '--enc_layer',
         type=int,
@@ -102,28 +102,6 @@ def parse_opt():
         '--dec_head',
         type=int,
         default=4)
-    
-    # FA-Bi-S6 specific settings
-    parser.add_argument(
-        '--history_tokens',
-        type=int,
-        default=16,
-        help='Number of history tokens for FA-Bi-S6 processing')
-    parser.add_argument(
-        '--s6_chunk_size',
-        type=int,
-        default=16,
-        help='Chunk size for Selective State Space processing')
-    parser.add_argument(
-        '--tfa_kernels',
-        type=list,
-        default=[2, 3, 4],
-        help='Kernel sizes for Temporal Feature Aggregation')
-    parser.add_argument(
-        '--cfa_kernels',
-        type=list,
-        default=[2, 4, 8],
-        help='Kernel sizes for Channel Feature Aggregation')
         
     # Training settings
     parser.add_argument(
