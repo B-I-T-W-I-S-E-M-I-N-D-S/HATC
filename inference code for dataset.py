@@ -287,7 +287,7 @@ class VideoDataSet(data.Dataset):
         
         # Ensure all 22 EGTEA action classes are included
         expected_labels = [
-            'Clean','HairTreatment','HairTreatmentAndClean'
+            'cover', 'defense','flick','hook','late_cut','lofted','pull','square_cut','straight','sweep'
         ]
         for label in expected_labels:
             if label not in self.label_name:
