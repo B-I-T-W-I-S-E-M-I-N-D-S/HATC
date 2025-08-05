@@ -10667,1826 +10667,1826 @@
           "label": "sweep"
         }
       ]
+    },
+    "test_cover": {
+      "subset": "test",
+      "split": 1,
+      "duration": 55.053991,
+      "annotations": [
+        {
+          "segment": [
+            0.0,
+            1.4
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            1.6,
+            2.7
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            3.7,
+            5.1
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            5.5,
+            7.0
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            7.9,
+            9.4
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            10.2,
+            11.4
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            12.6,
+            14.1
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            15.7,
+            17.6
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            18.2,
+            19.5
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            20.6,
+            22.1
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            23.7,
+            24.7
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            26.7,
+            28.1
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            30.0,
+            31.2
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            32.2,
+            33.8
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            34.7,
+            36.1
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            37.2,
+            38.5
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            39.1,
+            39.9
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            40.2,
+            41.4
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            41.7,
+            43.1
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            44.1,
+            45.4
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            45.7,
+            46.6
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            46.8,
+            48.2
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            49.1,
+            50.1
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            51.2,
+            52.1
+          ],
+          "label": "cover"
+        },
+        {
+          "segment": [
+            53.2,
+            54.5
+          ],
+          "label": "cover"
+        }
+      ]
+    },
+    "test_defense": {
+      "subset": "test",
+      "split": 1,
+      "duration": 79.969002,
+      "annotations": [
+        {
+          "segment": [
+            0.3,
+            1.5
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            3.2,
+            4.4
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            7.1,
+            9.3
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            11.3,
+            12.9
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            14.1,
+            15.2
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            17.5,
+            19.4
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            20.5,
+            22.1
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            24.2,
+            26.7
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            27.9,
+            29.5
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            30.6,
+            33.0
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            34.7,
+            36.1
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            37.6,
+            39.2
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            40.3,
+            41.9
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            43.2,
+            44.7
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            46.5,
+            48.1
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            49.3,
+            50.7
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            53.0,
+            54.9
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            56.2,
+            57.8
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            59.9,
+            61.3
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            62.6,
+            64.2
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            65.6,
+            67.3
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            68.6,
+            70.4
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            71.1,
+            72.6
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            73.5,
+            75.0
+          ],
+          "label": "defense"
+        },
+        {
+          "segment": [
+            77.2,
+            78.4
+          ],
+          "label": "defense"
+        }
+      ]
+    },
+    "test_flick": {
+      "subset": "test",
+      "split": 1,
+      "duration": 52.383991,
+      "annotations": [
+        {
+          "segment": [
+            0.0,
+            2.1
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            2.7,
+            4.1
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            5.3,
+            6.6
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            7.2,
+            8.4
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            9.8,
+            11.1
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            12.1,
+            13.2
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            13.9,
+            15.2
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            15.9,
+            17.1
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            18.0,
+            19.0
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            19.5,
+            20.8
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            21.5,
+            22.4
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            23.4,
+            24.6
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            25.9,
+            26.8
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            27.8,
+            28.6
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            30.0,
+            31.3
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            31.9,
+            33.1
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            34.4,
+            35.5
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            36.4,
+            37.9
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            38.6,
+            40.0
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            41.0,
+            42.3
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            42.9,
+            44.2
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            44.9,
+            45.6
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            45.9,
+            47.3
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            48.1,
+            49.2
+          ],
+          "label": "flick"
+        },
+        {
+          "segment": [
+            50.7,
+            51.9
+          ],
+          "label": "flick"
+        }
+      ]
+    },
+    "test_hook": {
+      "subset": "test",
+      "split": 1,
+      "duration": 56.61,
+      "annotations": [
+        {
+          "segment": [
+            0.0,
+            3.1
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            3.9,
+            5.3
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            5.8,
+            7.2
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            7.6,
+            8.8
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            10.7,
+            12.2
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            15.7,
+            17.0
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            17.7,
+            19.2
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            21.9,
+            23.9
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            24.4,
+            25.6
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            25.9,
+            27.1
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            27.5,
+            28.8
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            29.2,
+            30.5
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            31.6,
+            32.9
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            33.3,
+            34.4
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            35.5,
+            36.7
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            37.0,
+            38.2
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            38.3,
+            40.1
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            40.8,
+            42.3
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            43.8,
+            44.9
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            45.8,
+            46.7
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            48.1,
+            49.3
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            49.7,
+            50.7
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            51.5,
+            52.3
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            52.9,
+            54.5
+          ],
+          "label": "hook"
+        },
+        {
+          "segment": [
+            55.1,
+            56.1
+          ],
+          "label": "hook"
+        }
+      ]
+    },
+    "test_late_cut": {
+      "subset": "test",
+      "split": 1,
+      "duration": 57.073991,
+      "annotations": [
+        {
+          "segment": [
+            0.0,
+            1.5
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            2.2,
+            3.5
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            4.3,
+            6.1
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            6.8,
+            7.9
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            8.5,
+            9.8
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            10.5,
+            11.7
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            12.8,
+            14.3
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            14.9,
+            16.1
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            16.8,
+            18.1
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            18.8,
+            20.2
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            20.8,
+            21.8
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            22.7,
+            23.9
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            24.7,
+            26.0
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            26.7,
+            28.2
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            28.8,
+            30.3
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            31.8,
+            33.2
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            33.6,
+            35.1
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            35.6,
+            37.0
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            38.3,
+            39.9
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            40.7,
+            42.3
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            43.0,
+            44.2
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            45.4,
+            46.7
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            47.8,
+            48.8
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            51.8,
+            53.5
+          ],
+          "label": "late_cut"
+        },
+        {
+          "segment": [
+            54.7,
+            56.3
+          ],
+          "label": "late_cut"
+        }
+      ]
+    },
+    "test_lofted": {
+      "subset": "test",
+      "split": 1,
+      "duration": 114.822993,
+      "annotations": [
+        {
+          "segment": [
+            0.6,
+            2.1
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            6.9,
+            8.9
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            10.9,
+            13.3
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            16.8,
+            18.8
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            21.3,
+            22.8
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            25.1,
+            26.5
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            30.3,
+            32.8
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            37.1,
+            38.8
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            42.5,
+            44.2
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            47.4,
+            49.8
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            52.9,
+            54.9
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            59.1,
+            61.4
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            62.8,
+            65.1
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            68.9,
+            70.7
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            74.4,
+            75.9
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            77.1,
+            78.1
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            79.6,
+            81.6
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            84.1,
+            85.5
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            86.4,
+            87.9
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            88.7,
+            90.1
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            92.8,
+            94.7
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            96.5,
+            98.2
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            99.4,
+            100.5
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            105.4,
+            106.7
+          ],
+          "label": "lofted"
+        },
+        {
+          "segment": [
+            110.5,
+            112.0
+          ],
+          "label": "lofted"
+        }
+      ]
+    },
+    "test_pull": {
+      "subset": "test",
+      "split": 1,
+      "duration": 49.435011,
+      "annotations": [
+        {
+          "segment": [
+            0.0,
+            1.6
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            2.4,
+            3.4
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            4.3,
+            5.9
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            6.7,
+            7.4
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            8.2,
+            9.1
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            9.8,
+            11.0
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            11.9,
+            13.1
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            13.4,
+            14.4
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            15.3,
+            16.5
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            18.1,
+            19.4
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            20.3,
+            21.1
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            22.5,
+            23.4
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            24.5,
+            26.0
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            26.3,
+            27.4
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            28.4,
+            29.6
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            30.4,
+            31.4
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            32.3,
+            33.6
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            34.4,
+            35.4
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            36.1,
+            37.2
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            37.5,
+            39.2
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            40.2,
+            41.3
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            42.5,
+            43.7
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            44.5,
+            45.8
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            46.4,
+            47.5
+          ],
+          "label": "pull"
+        },
+        {
+          "segment": [
+            48.3,
+            49.4
+          ],
+          "label": "pull"
+        }
+      ]
+    },
+    "test_square_cut": {
+      "subset": "test",
+      "split": 1,
+      "duration": 58.468005,
+      "annotations": [
+        {
+          "segment": [
+            0.0,
+            1.4
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            2.5,
+            3.6
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            4.3,
+            5.4
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            6.4,
+            7.4
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            8.7,
+            9.7
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            12.9,
+            14.1
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            16.7,
+            18.4
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            19.1,
+            20.4
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            21.1,
+            22.3
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            22.8,
+            23.9
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            25.2,
+            26.4
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            27.1,
+            28.2
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            29.2,
+            30.5
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            31.2,
+            32.6
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            33.2,
+            34.2
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            37.5,
+            38.8
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            39.3,
+            40.2
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            41.6,
+            42.7
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            43.6,
+            44.8
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            45.2,
+            46.2
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            46.9,
+            48.1
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            49.9,
+            51.6
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            52.9,
+            53.8
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            54.4,
+            55.7
+          ],
+          "label": "square_cut"
+        },
+        {
+          "segment": [
+            56.5,
+            57.7
+          ],
+          "label": "square_cut"
+        }
+      ]
+    },
+    "test_straight": {
+      "subset": "test",
+      "split": 1,
+      "duration": 74.721995,
+      "annotations": [
+        {
+          "segment": [
+            0.0,
+            2.8
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            4.1,
+            5.8
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            7.6,
+            9.2
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            9.9,
+            11.8
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            11.7,
+            13.4
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            14.1,
+            15.9
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            17.2,
+            18.9
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            19.7,
+            21.1
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            22.1,
+            23.5
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            24.8,
+            26.3
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            28.9,
+            30.7
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            31.1,
+            32.8
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            34.6,
+            36.4
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            38.1,
+            40.3
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            42.5,
+            44.3
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            44.7,
+            46.4
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            47.4,
+            49.1
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            50.2,
+            51.9
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            53.3,
+            54.6
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            56.4,
+            58.1
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            58.8,
+            59.8
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            62.3,
+            63.8
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            65.4,
+            68.1
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            68.8,
+            71.0
+          ],
+          "label": "straight"
+        },
+        {
+          "segment": [
+            71.7,
+            74.1
+          ],
+          "label": "straight"
+        }
+      ]
+    },
+    "test_sweep": {
+      "subset": "test",
+      "split": 1,
+      "duration": 63.785011,
+      "annotations": [
+        {
+          "segment": [
+            0.0,
+            2.4
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            2.5,
+            4.9
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            5.3,
+            6.9
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            7.9,
+            9.9
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            10.3,
+            12.2
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            12.2,
+            13.8
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            14.8,
+            16.3
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            18.0,
+            19.3
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            20.1,
+            22.1
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            22.6,
+            24.3
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            26.1,
+            27.8
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            29.7,
+            31.8
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            32.4,
+            34.2
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            35.6,
+            37.8
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            40.4,
+            41.8
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            42.5,
+            44.5
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            45.0,
+            46.7
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            47.7,
+            49.1
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            49.7,
+            51.6
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            52.1,
+            53.5
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            53.6,
+            55.2
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            55.9,
+            57.5
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            57.8,
+            59.1
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            59.3,
+            60.5
+          ],
+          "label": "sweep"
+        },
+        {
+          "segment": [
+            61.3,
+            62.7
+          ],
+          "label": "sweep"
+        }
+      ]
     }
-  },
-  "test_cover": {
-    "subset": "test",
-    "split": 1,
-    "duration": 55.053991,
-    "annotations": [
-      {
-        "segment": [
-          0.0,
-          1.4
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          1.6,
-          2.7
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          3.7,
-          5.1
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          5.5,
-          7.0
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          7.9,
-          9.4
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          10.2,
-          11.4
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          12.6,
-          14.1
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          15.7,
-          17.6
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          18.2,
-          19.5
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          20.6,
-          22.1
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          23.7,
-          24.7
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          26.7,
-          28.1
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          30.0,
-          31.2
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          32.2,
-          33.8
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          34.7,
-          36.1
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          37.2,
-          38.5
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          39.1,
-          39.9
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          40.2,
-          41.4
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          41.7,
-          43.1
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          44.1,
-          45.4
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          45.7,
-          46.6
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          46.8,
-          48.2
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          49.1,
-          50.1
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          51.2,
-          52.1
-        ],
-        "label": "cover"
-      },
-      {
-        "segment": [
-          53.2,
-          54.5
-        ],
-        "label": "cover"
-      }
-    ]
-  },
-  "test_defense": {
-    "subset": "test",
-    "split": 1,
-    "duration": 79.969002,
-    "annotations": [
-      {
-        "segment": [
-          0.3,
-          1.5
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          3.2,
-          4.4
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          7.1,
-          9.3
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          11.3,
-          12.9
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          14.1,
-          15.2
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          17.5,
-          19.4
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          20.5,
-          22.1
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          24.2,
-          26.7
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          27.9,
-          29.5
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          30.6,
-          33.0
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          34.7,
-          36.1
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          37.6,
-          39.2
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          40.3,
-          41.9
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          43.2,
-          44.7
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          46.5,
-          48.1
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          49.3,
-          50.7
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          53.0,
-          54.9
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          56.2,
-          57.8
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          59.9,
-          61.3
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          62.6,
-          64.2
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          65.6,
-          67.3
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          68.6,
-          70.4
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          71.1,
-          72.6
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          73.5,
-          75.0
-        ],
-        "label": "defense"
-      },
-      {
-        "segment": [
-          77.2,
-          78.4
-        ],
-        "label": "defense"
-      }
-    ]
-  },
-  "test_flick": {
-    "subset": "test",
-    "split": 1,
-    "duration": 52.383991,
-    "annotations": [
-      {
-        "segment": [
-          0.0,
-          2.1
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          2.7,
-          4.1
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          5.3,
-          6.6
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          7.2,
-          8.4
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          9.8,
-          11.1
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          12.1,
-          13.2
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          13.9,
-          15.2
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          15.9,
-          17.1
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          18.0,
-          19.0
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          19.5,
-          20.8
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          21.5,
-          22.4
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          23.4,
-          24.6
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          25.9,
-          26.8
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          27.8,
-          28.6
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          30.0,
-          31.3
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          31.9,
-          33.1
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          34.4,
-          35.5
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          36.4,
-          37.9
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          38.6,
-          40.0
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          41.0,
-          42.3
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          42.9,
-          44.2
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          44.9,
-          45.6
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          45.9,
-          47.3
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          48.1,
-          49.2
-        ],
-        "label": "flick"
-      },
-      {
-        "segment": [
-          50.7,
-          51.9
-        ],
-        "label": "flick"
-      }
-    ]
-  },
-  "test_hook": {
-    "subset": "test",
-    "split": 1,
-    "duration": 56.61,
-    "annotations": [
-      {
-        "segment": [
-          0.0,
-          3.1
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          3.9,
-          5.3
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          5.8,
-          7.2
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          7.6,
-          8.8
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          10.7,
-          12.2
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          15.7,
-          17.0
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          17.7,
-          19.2
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          21.9,
-          23.9
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          24.4,
-          25.6
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          25.9,
-          27.1
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          27.5,
-          28.8
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          29.2,
-          30.5
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          31.6,
-          32.9
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          33.3,
-          34.4
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          35.5,
-          36.7
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          37.0,
-          38.2
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          38.3,
-          40.1
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          40.8,
-          42.3
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          43.8,
-          44.9
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          45.8,
-          46.7
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          48.1,
-          49.3
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          49.7,
-          50.7
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          51.5,
-          52.3
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          52.9,
-          54.5
-        ],
-        "label": "hook"
-      },
-      {
-        "segment": [
-          55.1,
-          56.1
-        ],
-        "label": "hook"
-      }
-    ]
-  },
-  "test_late_cut": {
-    "subset": "test",
-    "split": 1,
-    "duration": 57.073991,
-    "annotations": [
-      {
-        "segment": [
-          0.0,
-          1.5
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          2.2,
-          3.5
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          4.3,
-          6.1
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          6.8,
-          7.9
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          8.5,
-          9.8
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          10.5,
-          11.7
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          12.8,
-          14.3
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          14.9,
-          16.1
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          16.8,
-          18.1
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          18.8,
-          20.2
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          20.8,
-          21.8
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          22.7,
-          23.9
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          24.7,
-          26.0
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          26.7,
-          28.2
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          28.8,
-          30.3
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          31.8,
-          33.2
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          33.6,
-          35.1
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          35.6,
-          37.0
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          38.3,
-          39.9
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          40.7,
-          42.3
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          43.0,
-          44.2
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          45.4,
-          46.7
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          47.8,
-          48.8
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          51.8,
-          53.5
-        ],
-        "label": "late_cut"
-      },
-      {
-        "segment": [
-          54.7,
-          56.3
-        ],
-        "label": "late_cut"
-      }
-    ]
-  },
-  "test_lofted": {
-    "subset": "test",
-    "split": 1,
-    "duration": 114.822993,
-    "annotations": [
-      {
-        "segment": [
-          0.6,
-          2.1
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          6.9,
-          8.9
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          10.9,
-          13.3
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          16.8,
-          18.8
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          21.3,
-          22.8
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          25.1,
-          26.5
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          30.3,
-          32.8
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          37.1,
-          38.8
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          42.5,
-          44.2
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          47.4,
-          49.8
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          52.9,
-          54.9
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          59.1,
-          61.4
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          62.8,
-          65.1
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          68.9,
-          70.7
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          74.4,
-          75.9
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          77.1,
-          78.1
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          79.6,
-          81.6
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          84.1,
-          85.5
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          86.4,
-          87.9
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          88.7,
-          90.1
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          92.8,
-          94.7
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          96.5,
-          98.2
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          99.4,
-          100.5
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          105.4,
-          106.7
-        ],
-        "label": "lofted"
-      },
-      {
-        "segment": [
-          110.5,
-          112.0
-        ],
-        "label": "lofted"
-      }
-    ]
-  },
-  "test_pull": {
-    "subset": "test",
-    "split": 1,
-    "duration": 49.435011,
-    "annotations": [
-      {
-        "segment": [
-          0.0,
-          1.6
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          2.4,
-          3.4
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          4.3,
-          5.9
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          6.7,
-          7.4
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          8.2,
-          9.1
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          9.8,
-          11.0
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          11.9,
-          13.1
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          13.4,
-          14.4
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          15.3,
-          16.5
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          18.1,
-          19.4
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          20.3,
-          21.1
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          22.5,
-          23.4
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          24.5,
-          26.0
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          26.3,
-          27.4
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          28.4,
-          29.6
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          30.4,
-          31.4
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          32.3,
-          33.6
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          34.4,
-          35.4
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          36.1,
-          37.2
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          37.5,
-          39.2
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          40.2,
-          41.3
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          42.5,
-          43.7
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          44.5,
-          45.8
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          46.4,
-          47.5
-        ],
-        "label": "pull"
-      },
-      {
-        "segment": [
-          48.3,
-          49.4
-        ],
-        "label": "pull"
-      }
-    ]
-  },
-  "test_square_cut": {
-    "subset": "test",
-    "split": 1,
-    "duration": 58.468005,
-    "annotations": [
-      {
-        "segment": [
-          0.0,
-          1.4
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          2.5,
-          3.6
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          4.3,
-          5.4
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          6.4,
-          7.4
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          8.7,
-          9.7
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          12.9,
-          14.1
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          16.7,
-          18.4
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          19.1,
-          20.4
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          21.1,
-          22.3
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          22.8,
-          23.9
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          25.2,
-          26.4
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          27.1,
-          28.2
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          29.2,
-          30.5
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          31.2,
-          32.6
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          33.2,
-          34.2
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          37.5,
-          38.8
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          39.3,
-          40.2
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          41.6,
-          42.7
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          43.6,
-          44.8
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          45.2,
-          46.2
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          46.9,
-          48.1
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          49.9,
-          51.6
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          52.9,
-          53.8
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          54.4,
-          55.7
-        ],
-        "label": "square_cut"
-      },
-      {
-        "segment": [
-          56.5,
-          57.7
-        ],
-        "label": "square_cut"
-      }
-    ]
-  },
-  "test_straight": {
-    "subset": "test",
-    "split": 1,
-    "duration": 74.721995,
-    "annotations": [
-      {
-        "segment": [
-          0.0,
-          2.8
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          4.1,
-          5.8
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          7.6,
-          9.2
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          9.9,
-          11.8
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          11.7,
-          13.4
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          14.1,
-          15.9
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          17.2,
-          18.9
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          19.7,
-          21.1
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          22.1,
-          23.5
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          24.8,
-          26.3
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          28.9,
-          30.7
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          31.1,
-          32.8
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          34.6,
-          36.4
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          38.1,
-          40.3
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          42.5,
-          44.3
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          44.7,
-          46.4
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          47.4,
-          49.1
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          50.2,
-          51.9
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          53.3,
-          54.6
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          56.4,
-          58.1
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          58.8,
-          59.8
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          62.3,
-          63.8
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          65.4,
-          68.1
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          68.8,
-          71.0
-        ],
-        "label": "straight"
-      },
-      {
-        "segment": [
-          71.7,
-          74.1
-        ],
-        "label": "straight"
-      }
-    ]
-  },
-  "test_sweep": {
-    "subset": "test",
-    "split": 1,
-    "duration": 63.785011,
-    "annotations": [
-      {
-        "segment": [
-          0.0,
-          2.4
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          2.5,
-          4.9
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          5.3,
-          6.9
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          7.9,
-          9.9
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          10.3,
-          12.2
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          12.2,
-          13.8
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          14.8,
-          16.3
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          18.0,
-          19.3
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          20.1,
-          22.1
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          22.6,
-          24.3
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          26.1,
-          27.8
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          29.7,
-          31.8
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          32.4,
-          34.2
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          35.6,
-          37.8
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          40.4,
-          41.8
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          42.5,
-          44.5
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          45.0,
-          46.7
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          47.7,
-          49.1
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          49.7,
-          51.6
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          52.1,
-          53.5
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          53.6,
-          55.2
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          55.9,
-          57.5
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          57.8,
-          59.1
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          59.3,
-          60.5
-        ],
-        "label": "sweep"
-      },
-      {
-        "segment": [
-          61.3,
-          62.7
-        ],
-        "label": "sweep"
-      }
-    ]
   }
 }
