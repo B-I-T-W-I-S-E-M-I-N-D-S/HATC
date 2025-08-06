@@ -1,0 +1,424 @@
+{
+    "database": {
+        "train_cover": {
+            "subset": "train",
+            "split": 1,
+            "duration": 276.48,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        276.4
+                    ],
+                    "label": "cover"
+                }
+            ]
+        },
+        "train_defense": {
+            "subset": "train",
+            "split": 1,
+            "duration": 371.240998,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        371.1
+                    ],
+                    "label": "defense"
+                }
+            ]
+        },
+        "train_flick": {
+            "subset": "train",
+            "split": 1,
+            "duration": 258.345011,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        258.2
+                    ],
+                    "label": "flick"
+                }
+            ]
+        },
+        "train_hook": {
+            "subset": "train",
+            "split": 1,
+            "duration": 260.272993,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        260.2
+                    ],
+                    "label": "hook"
+                }
+            ]
+        },
+        "train_late_cut": {
+            "subset": "train",
+            "split": 1,
+            "duration": 272.579002,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        272.5
+                    ],
+                    "label": "late_cut"
+                }
+            ]
+        },
+        "train_lofted": {
+            "subset": "train",
+            "split": 1,
+            "duration": 519.453991,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        519.4
+                    ],
+                    "label": "lofted"
+                }
+            ]
+        },
+        "train_pull": {
+            "subset": "train",
+            "split": 1,
+            "duration": 256.440998,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        256.3
+                    ],
+                    "label": "pull"
+                }
+            ]
+        },
+        "train_square_cut": {
+            "subset": "train",
+            "split": 1,
+            "duration": 277.456009,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        277.4
+                    ],
+                    "label": "square_cut"
+                }
+            ]
+        },
+        "train_straight": {
+            "subset": "train",
+            "split": 1,
+            "duration": 369.175011,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        369.1
+                    ],
+                    "label": "straight"
+                }
+            ]
+        },
+        "train_sweep": {
+            "subset": "train",
+            "split": 1,
+            "duration": 297.518005,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        297.4
+                    ],
+                    "label": "sweep"
+                }
+            ]
+        },
+        "val_cover": {
+            "subset": "train",
+            "split": 1,
+            "duration": 55.750998,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        55.7
+                    ],
+                    "label": "cover"
+                }
+            ]
+        },
+        "val_defense": {
+            "subset": "train",
+            "split": 1,
+            "duration": 75.65,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        75.6
+                    ],
+                    "label": "defense"
+                }
+            ]
+        },
+        "val_flick": {
+            "subset": "train",
+            "split": 1,
+            "duration": 57.91,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        57.8
+                    ],
+                    "label": "flick"
+                }
+            ]
+        },
+        "val_hook": {
+            "subset": "train",
+            "split": 1,
+            "duration": 51.386009,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        51.3
+                    ],
+                    "label": "hook"
+                }
+            ]
+        },
+        "val_late_cut": {
+            "subset": "train",
+            "split": 1,
+            "duration": 58.142993,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        57.9
+                    ],
+                    "label": "late_cut"
+                }
+            ]
+        },
+        "val_lofted": {
+            "subset": "train",
+            "split": 1,
+            "duration": 100.055011,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        100
+                    ],
+                    "label": "lofted"
+                }
+            ]
+        },
+        "val_pull": {
+            "subset": "train",
+            "split": 1,
+            "duration": 49.435011,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        49.3
+                    ],
+                    "label": "pull"
+                }
+            ]
+        },
+        "val_square_cut": {
+            "subset": "train",
+            "split": 1,
+            "duration": 66.710998,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        66.6
+                    ],
+                    "label": "square_cut"
+                }
+            ]
+        },
+        "val_straight": {
+            "subset": "train",
+            "split": 1,
+            "duration": 76.208005,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        76.1
+                    ],
+                    "label": "straight"
+                }
+            ]
+        },
+        "val_sweep": {
+            "subset": "train",
+            "split": 1,
+            "duration": 56.006009,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        55.9
+                    ],
+                    "label": "sweep"
+                }
+            ]
+        },
+        "test_cover": {
+            "subset": "test",
+            "split": 1,
+            "duration": 55.053991,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        55
+                    ],
+                    "label": "cover"
+                }
+            ]
+        },
+        "test_defense": {
+            "subset": "test",
+            "split": 1,
+            "duration": 79.969002,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        79.9
+                    ],
+                    "label": "defense"
+                }
+            ]
+        },
+        "test_flick": {
+            "subset": "test",
+            "split": 1,
+            "duration": 52.383991,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        52.3
+                    ],
+                    "label": "flick"
+                }
+            ]
+        },
+        "test_hook": {
+            "subset": "test",
+            "split": 1,
+            "duration": 56.61,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        56.5
+                    ],
+                    "label": "hook"
+                }
+            ]
+        },
+        "test_late_cut": {
+            "subset": "test",
+            "split": 1,
+            "duration": 57.073991,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        57
+                    ],
+                    "label": "late_cut"
+                }
+            ]
+        },
+        "test_lofted": {
+            "subset": "test",
+            "split": 1,
+            "duration": 114.822993,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        114.7
+                    ],
+                    "label": "lofted"
+                }
+            ]
+        },
+        "test_pull": {
+            "subset": "test",
+            "split": 1,
+            "duration": 49.435011,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        49.3
+                    ],
+                    "label": "pull"
+                }
+            ]
+        },
+        "test_square_cut": {
+            "subset": "test",
+            "split": 1,
+            "duration": 58.468005,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        58.4
+                    ],
+                    "label": "square_cut"
+                }
+            ]
+        },
+        "test_straight": {
+            "subset": "test",
+            "split": 1,
+            "duration": 74.721995,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        74.6
+                    ],
+                    "label": "straight"
+                }
+            ]
+        },
+        "test_sweep": {
+            "subset": "test",
+            "split": 1,
+            "duration": 63.785011,
+            "annotations": [
+                {
+                    "segment": [
+                        0.0,
+                        63.7
+                    ],
+                    "label": "sweep"
+                }
+            ]
+        }
+    }
+}
